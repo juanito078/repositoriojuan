@@ -2,5 +2,4 @@ Oferta academica del centro de gestion de mercados, logistica y tecnologia
 1.Teleinformatica
 2.Logistica
 3.Mercadeo
-4.Industrias creativas
-5.Educacion complementaria
+
